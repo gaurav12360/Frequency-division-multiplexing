@@ -1,4 +1,5 @@
-# Frequency-division-multiplexingAim
+# Frequency-division-multiplexing
+# Aim
 
 To study and implement Frequency Division Multiplexing (FDM) using multiple baseband signals modulated on different carrier frequencies and to observe the multiplexed signal, its transmission, and perfect demodulation of individual channels.
 
