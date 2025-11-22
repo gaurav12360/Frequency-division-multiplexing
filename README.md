@@ -115,6 +115,11 @@ end
 ```
 # OUTPUT
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/22324700-3dd2-464e-8fd0-bfb2ef49fa17" />
+# TABULAR COLUMN
+<img width="800" height="1280" alt="image" src="https://github.com/user-attachments/assets/43585085-e3e0-4cab-9f17-298a17800110" />
+
+<img width="802" height="1280" alt="image" src="https://github.com/user-attachments/assets/b6e13592-761b-4a51-832e-a05a533413b4" />
+
 
 # RESULT
 
